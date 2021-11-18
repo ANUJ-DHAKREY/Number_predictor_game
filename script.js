@@ -50,7 +50,7 @@ function checkguess(){
           guess_field.focus();
       }
 
-
+// modified for git 
 
       function setGameOver() {
         guess_field.disabled = true;
